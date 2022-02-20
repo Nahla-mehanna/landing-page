@@ -18,7 +18,7 @@ Also I added fragment for performance.
 
 
 I selected all the sections using querySelectorAll .
-Then created main function with the for of loop to created :
+Then created main function with the for of loop to create :
 * Li lists
 * a ( anchor)
 Added to each a(anchor) :
