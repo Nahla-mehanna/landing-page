@@ -21,11 +21,11 @@ I selected all the sections using querySelectorAll .
 Then created main function with the for of loop to create :
 * Li lists
 * a ( anchor)
-Added to each a(anchor) :
-* Class
-* href
-* Text Content
-* Add event listener
+* and adding for each anchor :
+   * Class
+   * href
+   * Text Content
+   * Add event listener
 
 
 Also if statement with the getBoundingClientRect to add the class (your-active-class) if the section is in the view port.
